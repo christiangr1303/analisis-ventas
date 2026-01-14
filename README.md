@@ -1,1 +1,2 @@
 # analisis-ventas
+https://app.powerbi.com/view?r=eyJrIjoiYmE4MTRhMDMtZTJjZS00MGYzLWIzYjktYzcwYzAyNzRkOGZmIiwidCI6Ijc1MDRlMzE4LThlMWUtNGQ1NS1iZmZkLTg3NWI0ZGVlODI2MCIsImMiOjR9
