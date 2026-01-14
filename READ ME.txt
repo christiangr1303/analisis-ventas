@@ -1,0 +1,23 @@
+READ ME
+
+Descripción:
+
+En este proyecto desarrollé un informe de ventas que permite analizar el comportamiento comercial de distintos productos a nivel regional y por ciudad.
+El dashboard facilita la identificación de productos más vendidos, regiones con mayor aporte a las ventas y ciudades con mejor y peor desempeño.
+
+Se incorporaron KPIs clave, análisis temporal por año y mes, segmentación por producto y visualizaciones comparativas para apoyar la toma de decisiones comerciales.
+
+Objetivo: El objetivo es entender el desempeño de ventas y detectar oportunidades de crecimiento por producto y región.
+
+Preguntas a responder:
+- ¿Cuánto se vende en total?
+- ¿Qué productos concentran más ventas?
+- ¿Qué regiones venden más?
+- ¿Qué ciudades tienen mejor y peor desempeño?
+- ¿Cómo varían las ventas con el tiempo?
+
+Insight clave:
+“Las ciudades de Trujillo y Callao concentran el mayor volumen de ventas, mientras que Piura presenta el menor desempeño, lo que podría indicar una oportunidad de reforzar estrategias comerciales en esa zona.”
+
+Conclusión:
+- Este informe ayuda a priorizar esfuerzos comerciales, ajustar el portafolio de productos y enfocar campañas en regiones estratégicas.
